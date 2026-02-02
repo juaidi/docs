@@ -23,9 +23,9 @@
         }
       ]
     },
-    "products": [
+    "anchors": [
       {
-        "product": "Tally",
+        "anchor": "Tally",
         "tabs": [
           {
             "tab": "Guides",
